@@ -6,7 +6,8 @@ movie based on its plot summary or other textual information. You
 can use techniques like TF-IDF or word embeddings with classifiers
 such as Naive Bayes, Logistic Regression, or Support Vector Machines.
 
-The Data used in the task is taken from kaggle as the link is provided by CodeSoft
+The Data used in the task is taken from kaggle as the link is provided by CodeSoft.
+https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
 
 ## TASK 2
 #### CREDIT CARD FRAUD DETECTION
@@ -16,7 +17,8 @@ dataset containing information about credit card transactions, and
 experiment with algorithms like Logistic Regression, Decision Trees,
 or Random Forests to classify transactions as fraudulent or,
 legitimate.
-The Data used in the task is taken from kaggle as the link is provided by CodeSoft
+The Data used in the task is taken from kaggle as the link is provided by CodeSoft.
+https://www.kaggle.com/datasets/kartik2112/fraud-detection
 
 ## TASK 3
 #### CUSTOMER CHURN PREDICTION
@@ -26,7 +28,8 @@ based service or business. Use historical customer data, including
 features like usage behavior and customer demographics, and try
 algorithms like Logistic Regression, Random Forests, or Gradient
 Boosting to predict churn.
-The Data used in the task is taken from kaggle as the link is provided by CodeSoft
+The Data used in the task is taken from kaggle as the link is provided by CodeSoft.
+https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction
 
 ## TASK 4
 #### SPAM SMS DETECTION
@@ -36,3 +39,4 @@ legitimate. Use techniques like TF-IDF or word embeddings with
 classifiers like Naive Bayes, Logistic Regression, or Support Vector
 Machines to identify spam messages . 
 The Data used in the task is taken from kaggle as the link is provided by CodeSoft.
+https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
